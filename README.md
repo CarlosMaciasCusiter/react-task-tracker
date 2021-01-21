@@ -1,29 +1,15 @@
-# React Crash Course 2021 (Task Tracker App)
+# Task Tracker App
 
 This is the project from the [YouTube crash course](https://www.youtube.com/watch?v=w7ejDZ8SWv8). It includes the react ui as well as JSON-server for our mock backend
 
-## Usage
+Find a live version of this app at : https://salty-everglades-48367.herokuapp.com/
 
-### Install dependencies
-
-```
-npm install
-```
-
-### Run React dev server (http://localhost:3000)
+### Tools Used
 
 ```
-npm start
+React Front End, Mock Backend using JSON-server, Heroku hosting.
 ```
 
-### Run the JSON server (http://localhost:5000)
+### Purpose
 
-```
-npm run server
-```
-
-### To build for production
-
-```
-npm run build
-```
+This project was made to learn the basics of React
